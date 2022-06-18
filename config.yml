@@ -18,7 +18,7 @@ params:
 
   ShowReadingTime: true
   ShowShareButtons: true
-  ShareButtons: ["reddit", "twitter"] 
+  ShareButtons: ["reddit", "twitter",whatsapp] 
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
