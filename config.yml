@@ -7,7 +7,7 @@ theme: PaperMod
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: ZmanBlog
-  description: "ExampleSite description"
+  description: "SaicharanKandukuri aka Zman's blog"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -36,7 +36,7 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
+    favicon: "https://avatars.githubusercontent.com/u/68287637?v=4"
     favicon16x16: "<link / abs url>"
     favicon32x32: "<link / abs url>"
     apple_touch_icon: "<link / abs url>"
@@ -75,10 +75,6 @@ params:
   analytics:
     google:
       SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -86,7 +82,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/SaicharanKandukuri/SaicharanKandukuri.github.io/content"
+    URL: "https://github.com/SaicharanKandukuri/SaicharanKandukuri.github.io/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
