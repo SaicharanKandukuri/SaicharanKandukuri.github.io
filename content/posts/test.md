@@ -1,9 +1,11 @@
 ---
-title: "The Bang 💥"
+title: The Bang 💥
 date: 2022-06-18T10:49:18+05:30
-summary: "Just a first post to test my blog & my plans"
-author: "SaicharanKandukuri"
-tags: ["test", "first"]
+summary: Just a first post to test my blog & my plans
+author: SaicharanKandukuri
+tags:
+  - test
+  - first
 draft: true
 ---
 
