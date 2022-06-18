@@ -4,6 +4,8 @@ title: ZMAN Blog
 pageinate: 5
 theme: PaperMod
 
+googleAnalytics: G-7J3W1PZX4D
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: ZmanBlog
