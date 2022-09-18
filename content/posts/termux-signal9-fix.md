@@ -1,7 +1,7 @@
 ---
 title: Termux Signal9 Fix
 date: 2022-07-14T16:47:12+05:30
-summary: fix termux signal 9 error without external PC
+summary: fix termux signal 9 error in android 12 devices without external PC (phantomService)
 showtoc: true
 draft: false
 slug: termux-signal9-fix
