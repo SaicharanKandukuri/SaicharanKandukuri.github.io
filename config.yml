@@ -75,15 +75,12 @@ params:
   analytics:
     google:
       SiteVerificationTag: "XYZabc"
-  home:
-    - HTML
-    - RSS
-    - JSON
 
   cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
+    responsiveImages: false
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
 
   editPost:
     URL: "https://github.com/SaicharanKandukuri/SaicharanKandukuri.github.io/tree/main/content"
@@ -102,9 +99,9 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    # - identifier: search
-    #   name: 🔍 search
-    #   url: /search
+    - identifier: search
+      name: 🔍 search
+      url: /search
     - identifier: tags
       name: tags
       url: /tags/
@@ -113,6 +110,13 @@ menu:
       name: 🧑‍🏫 polywork
       url: https://www.polywork.com/zman1x1
       weight: 30
+
+outputs:
+    home:
+      - HTML
+      - RSS
+      - JSON
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
