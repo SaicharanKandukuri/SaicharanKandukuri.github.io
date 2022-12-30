@@ -46,3 +46,5 @@ This makes sense because knowing the topic is the first step to understanding it
 The line 'A good teacher never looks at a book or PPT while teaching' means that a good teacher tries to deliver the topic in a way that the audience doesn't need to read the book or PPT to understand the topic, and I was so wrong to think that a teacher who uses PPT doesn't know anything about the topic.
 
 MORAL: _"Do go thinking you are right about something before some background work, you may be wrong"_ 🫠
+
+_That cat above is me after realizing my mistake._
