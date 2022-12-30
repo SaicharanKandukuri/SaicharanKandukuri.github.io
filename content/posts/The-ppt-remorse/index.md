@@ -12,7 +12,7 @@ cover:
 
 ## Early Days
 
-The story happened when was the dawn of teaching with PPT, and when I was a new teenager. The teacher I admired so much said, **"A good teacher never looks at a book or PPT while teaching,"** and he never let us open our textbooks or any teaching materials. All we had was a notebook.
+The story happened when it was the dawn of teaching with PPT, and when I was a new teenager. The teacher I admired so much said, **"A good teacher never looks at a book or PPT while teaching,"** and he never let us open our textbooks or any teaching materials. All we had was a notebook.
 The situation may have looked normal (it is), but when I was that age,  I used to get easily manipulated by the words of people I respected due to my authority bias. From that day on, anytime I saw a teacher using PPT and just reading from it, I thought, **"That teacher doesn't know anything; they're just teaching to live."**
 
 > I know it was a stupid thought, but I was a stupid kid. I got it all wrong.
@@ -41,7 +41,7 @@ Recently I was studying so many new topics from YouTube and conferences and they
 
 This makes sense because knowing the topic is the first step to understanding it. The key element of any presentation is to convey the topic to the audience, and that was always missing in my presentations.
 
-> I regret all the things I said to myself. 
+> I regret all the things I said to myself.
 
 The line 'A good teacher never looks at a book or PPT while teaching' means that a good teacher tries to deliver the topic in a way that the audience doesn't need to read the book or PPT to understand the topic, and I was so wrong to think that a teacher who uses PPT doesn't know anything about the topic.
 
