@@ -1,7 +1,7 @@
 ---
 title: "Gnome in Android - termux"
 date: 2023-01-22T10:25:03+05:30
-summary: "Running Gnome 43 in termux proot inside ubuntu 22.04 jammy is possible now"
+summary: "Running Gnome 42 in termux proot inside ubuntu 22.04 jammy is possible now"
 showtoc: true
 draft: false
 cover:
@@ -22,7 +22,7 @@ More like how to setup gnome in termux app
 > Do remember that this is not a stable Desktop Environ,ent, it may break anytime, 
 > 
 > -> this guide install sets up minimal version of gnome
->
+> -> considers you know how to setup [termux-x11](https://github.com/termux/termux-x11) ( just to keep page small )
 
 ### **udroid** user
 
