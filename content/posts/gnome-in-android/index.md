@@ -26,10 +26,10 @@ More like how to setup gnome in termux app
 
 ### **udroid** user
 
-1. Install the latest `revamp-v2.5` branch of [fs-manager-udroid](https://github.com/RandomCoderOrg/fs-manager-udroid/tree/revamp-v2.5)
+1. Install the latest version [fs-manager-udroid](https://github.com/RandomCoderOrg/fs-manager-udroid/tree/revamp-v2.5)
 
 ```bash
-git clone -b revamp-v2.5 https://github.com/RandomCoderOrg/fs-manager-udroid.git
+git clone https://github.com/RandomCoderOrg/fs-manager-udroid.git
 cd fs-manager-udroid
 bash install.sh
 udroid upgrade
