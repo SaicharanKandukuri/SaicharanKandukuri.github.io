@@ -35,7 +35,7 @@ bash install.sh
 udroid upgrade
 ```
 
-2. Install **ubuntu 22.04 Jammy** ( cause its only distro with gnome 43 and the one i tested )
+2. Install **ubuntu 22.04 Jammy** ( cause its only distro with gnome 42 and the one i tested )
 
 ```bash
 udroid install jammy:raw
