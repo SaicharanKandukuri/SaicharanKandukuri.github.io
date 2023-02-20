@@ -59,7 +59,7 @@ apt install -y ubuntu-desktop-minimal dbus-x11 x11-utils
 
 ```bash
 service dbus start
-DISPLAY=:0 gnome-session --x11
+DISPLAY=:0 gnome-shell --x11
 ```
 
 > You may need to setup all the use theme extension,  browser to get the look like in banner
