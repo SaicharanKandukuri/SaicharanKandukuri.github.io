@@ -1,0 +1,20 @@
+{
+  "name": "saicharankandukuri-blog",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/mdx": "^1.0.2",
+    "@astrojs/rss": "^3.0.0",
+    "@astrojs/sitemap": "^3.0.0",
+    "@rive-app/canvas": "^2.3.1",
+    "astro": "^3.0.10",
+    "astro-embed": "^0.5.1"
+  }
+}
